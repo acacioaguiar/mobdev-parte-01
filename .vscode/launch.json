@@ -1,0 +1,32 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "clienteftp",
+            "cwd": "17-acesso-rede\\clienteftp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "clientehttp",
+            "cwd": "17-acesso-rede\\clientehttp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "clientesmtp",
+            "cwd": "17-acesso-rede\\clientesmtp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "clientrede",
+            "cwd": "17-acesso-rede\\clientrede",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

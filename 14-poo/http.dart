@@ -19,4 +19,3 @@ void main(List<String> arguments) async {
     print('Request failed with status: ${response.statusCode}.');
   }
 }
-
